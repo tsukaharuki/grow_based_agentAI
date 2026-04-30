@@ -1,5 +1,5 @@
 これはgroqを用いたAIエージェントです。
 今回はエンジニア系情報共有コミュニティであるZENNのmizunny様の「無料で使えるLLM API Groqを使ってみた」と
 google社の生成AIエージェントGemini、OpenAI社の生成AIエージェントChatGPTを参考に作りました。
-主にコードはサイトで、エラーやライブラリ等のインストール等の問題解決では生成AIを利用しました。
+主にコードはサイトで、エラーやライブラリ等のインストールの問題解決では生成AIを利用しました。
 参考URL:https://zenn.dev/mizunny/articles/58be26d25f9589
